@@ -1,1 +1,1 @@
-console.log("hello wor")
+console.log("hello wo")
